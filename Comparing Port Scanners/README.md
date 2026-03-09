@@ -48,12 +48,12 @@ pip install python-nmap
 #### Nmap scanner
 
 ```bash
-python Port Scanner Project/Nmap_Port_Scanner.py
+python Comparing Port Scanners/Nmap_Port_Scanner.py
 ```
 
 #### TCP port scanner
 ```bash
-python Port Scanner Project/Socket_Port_Scanner.py
+python Comparing Port Scanners/Socket_Port_Scanner.py
 ```
 
 ## Comments and Key Findings
