@@ -22,7 +22,7 @@ This project demonstrates a quantum resistant messaging prototype using Kyber, a
 - Implemented 3 security levels - Kyber512, Kyber768, and Kyber1024. 
 - kyber.py - imported the 3 Kyber variants.
 
-### Python libraries
+### Python libraries:
 - os library - utilized to generate 16 bytes of secure random data for the Initialization Vector.
 - time library - used to record the time taken for key generation, encapsulation, and decapsulation process.
 - binascii library - used to convert the ciphertext from binary to hexadecimal format.
